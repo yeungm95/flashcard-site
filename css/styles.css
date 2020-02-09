@@ -2,10 +2,10 @@ h1 {
   text-align: center;
 }
 
-.definition1, .definition2 {
-  display: none;
-}
-
 .well {
   background-color: aliceblue;
+}
+
+p[class^="definition"] {
+  display: none;
 }
